@@ -11,7 +11,7 @@
 
 ## About Me
 
-- Programmer Analyst (Hybrid) at Cognizant
+- Associate at Cognizant
 - B.Tech in Information Technology, SRM IST Chennai (2019-2023)
 - Passionate about moving from quality engineering into AI/ML product development
 
